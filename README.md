@@ -21,7 +21,9 @@ Currently focused on Data Analytics, using Python, SQL, and data visualization t
 ---
 
 ## Projects
-- Coming soon 🚀
+- Financial Performance Analysis with SQL
+- Funnel & Retention Analysis (MercadoLibre)
+- Urban Mobility & Economic Productivity in LATAM
 
 ---
 
